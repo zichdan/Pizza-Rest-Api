@@ -1,0 +1,6 @@
+env
+__pycache__
+db.restx_pizza
+.env
+.flaskenv
+

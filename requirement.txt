@@ -1,0 +1,9 @@
+flask 
+flask_restx
+python-dotenv
+python_decouple
+flask_sqlalchemy
+flask_migrate
+flask_jwt_extended
+pytest
+
